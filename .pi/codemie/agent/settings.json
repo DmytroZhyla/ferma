@@ -1,0 +1,19 @@
+{
+  "defaultProjectTrust": "always",
+  "lastChangelogVersion": "1.0.4",
+  "theme": "dark",
+  "defaultProvider": "gitlab-duo",
+  "defaultModel": "claude-sonnet-4-6",
+  "packages": [
+    "npm:pi-web-search",
+    "npm:pi-subagents",
+    "npm:pi-mcp-adapter",
+    "npm:pi-context-tools",
+    "npm:pi-powerline-footer",
+    "npm:pi-token-speed",
+    "npm:pi-lens",
+    "npm:@eko24ive/pi-ask",
+    "npm:pi-gitlab-duo",
+    "git:github.com/obra/superpowers"
+  ]
+}
